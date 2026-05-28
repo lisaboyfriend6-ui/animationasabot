@@ -1,0 +1,244 @@
+[
+    {
+        "command": "rick and morty",
+        "title": "Free",
+        "msg": "rick and morty ကို အစအဆုံးကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကနေ ၄ အထိ ကြည့်ရန်။",
+                    "url": "https://t.me/animationbyasa/717"
+                },
+                {
+                    "text": "ရာသီ ၅ ကနေ ၉ အထိ ကြည့်ရန်။",
+                    "url": "https://t.me/animationbyasa/718"
+                }
+            ]
+        ]
+    },
+      {
+        "command": "Common Side Effects",
+        "title": "Free",
+        "msg": "Common Side Effects ကို အစအဆုံးကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကနေ ၄ အထိ ကြည့်ရန်။",
+                    "url": "https://t.me/animationbyasa/14"
+                }
+            ]
+        ]
+    },
+      {
+        "command": "Scooby Doo, Mystery Incorporated",
+        "title": "Series Name",
+        "msg": "Scooby Doo, Mystery Incorporated ကို အစအဆုံးကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကို ကြည့်ရန်။",
+                    "url": "hhttps://t.me/animationbyasa/16"
+                }
+            ]
+        ]
+    },
+      {
+        "command": "Pantheon",
+        "title": "Paid",
+        "msg": "Pantheon ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ နဲ့ ၂ ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/1027"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "The Boondocks",
+        "title": "Paid",
+        "msg": "The Boondocks ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကနေ ၄ အထိကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/679"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Smiling Friends",
+        "title": "Paid",
+        "msg": "Smiling Friends ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကနေ ၃ အထိကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/1027"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Scavengers Reign",
+        "title": "Paid",
+        "msg": "Scavengers Reign ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/681"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "The big lez show",
+        "title": "Free",
+        "msg": "The big lez show ကို အစအဆုံး ကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကို ကြည့်ရန်။",
+                    "url": "https://t.me/animationbyasa/463"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Primal",
+        "title": "Free",
+        "msg": "Primal ကို အစအဆုံး ကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကနေ ၃ အထိကို ကြည့်ရန်။",
+                    "url": "https://t.me/animationbyasa/676"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Over the garden wall",
+        "title": "Paid",
+        "msg": "Over the garden wall ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/997"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Over the garden wall",
+        "title": "Paid",
+        "msg": "Over the garden wall ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ ၁ ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/997"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Adventure time",
+        "title": "Paid",
+        "msg": "Adventure time ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ အစအဆုံး ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/752"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Adventure time : Fionna and cake",
+        "title": "Paid",
+        "msg": "Adventure time : Fionna and cake ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ အစအဆုံး ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/751"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Final Space",
+        "title": "Paid",
+        "msg": "Final Space ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ အစအဆုံး ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/758"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Captain Fall",
+        "title": "Paid",
+        "msg": "Captain Fall ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ အစအဆုံး ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/528"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "Bojack Horseman",
+        "title": "Paid",
+        "msg": "Bojack Horseman ကို အစအဆုံး ဝယ်ယူကြည့်လို့ရပြီဗျာ!",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "ရာသီ အစအဆုံး ကို ဝယ်ယူရန်။",
+                    "url": "https://t.me/animationbyasa/675"
+                }
+            ]
+        ]
+    },
+    {
+        "command": "help",
+        "title": "Help",
+        "msg": "ဘယ်လိုကူညီပေးရမလဲဗျာ? အောက်မှာရှိတဲ့ ခလုတ်ကိုနှိပ်ပြီး အက်မင်ကို ဆက်သွယ်နိုင်ပါတယ်။",
+        "type": "text",
+        "buttons": [
+            [
+                {
+                    "text": "အက်မင်ကို ဆက်သွယ်ရန်။",
+                    "url": "https://t.me/Vivan_Saikyo"
+                }
+            ]
+        ]
+    }
+]
